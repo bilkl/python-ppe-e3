@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "taches": [
+    {
+      "id": 1,
+      "titre": "Réviser le chapitre 3",
+      "statut": "terminee",
+      "priorite": "haute",
+      "cree_le": "2026-10-28T08:24:33",
+      "terminee_le": "2026-10-28T08:24:45"
+    },
+    {
+      "id": 2,
+      "titre": "Acheter du café",
+      "statut": "a_faire",
+      "priorite": "normale",
+      "cree_le": "2026-10-28T08:24:35",
+      "terminee_le": null
+    },
+    {
+      "id": 4,
+      "titre": "Envoyer le rapport",
+      "statut": "a_faire",
+      "priorite": "haute",
+      "cree_le": "2026-10-28T08:24:40",
+      "terminee_le": null
+    },
+    {
+      "id": 5,
+      "titre": "Tâche ajoutée après redémarrage",
+      "statut": "a_faire",
+      "priorite": "normale",
+      "cree_le": "2026-10-28T08:25:10",
+      "terminee_le": null
+    }
+  ]
+}

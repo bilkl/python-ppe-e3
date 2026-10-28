@@ -1,0 +1,11 @@
+date;id_vente;produit;categorie;region;quantite;prix_unitaire
+2026-07-01;E-001;Souris ergonomique;Accessoires;Vaud;2;44.50
+2026-07-02;E-002;"Écran 27""";Informatique;Genève;1;389.00
+2026-07-03;E-003;Casque audio;Accessoires;Valais;abc;129.00
+07/04/2026;E-004;Webcam HD;Accessoires;Jura;1;79.00
+2026-07-05;E-005;Lampe LED;Mobilier;Vaud;-2;39.90
+2026-07-06;E-006;;Mobilier;Vaud;1;39.90
+2026-07-07;E-002;"Écran 27""";Informatique;Genève;1;389.00
+2026-07-08;E-008;Clavier sans fil;Accessoires;Fribourg;3;59,90
+2026-07-09;E-009;Dock USB-C;Informatique;Vaud;1;nan
+2026-07-10;E-010;Bureau réglable;Mobilier;Neuchâtel;1

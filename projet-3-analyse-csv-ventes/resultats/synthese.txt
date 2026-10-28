@@ -1,0 +1,52 @@
+ANALYSE DES VENTES : ventes_t3_2026.csv
+Filtres : aucun
+Lignes de données : 320   valides : 320   rejetées : 0
+
+INDICATEURS
+  Période couverte        : 2026-07-01 au 2026-09-30
+  Nombre de ventes        : 320
+  Quantité totale vendue  : 968
+  Chiffre d'affaires      : CHF 89'754.00
+  Moyenne par vente       : CHF 280.48
+  Produit le plus vendu   : Câble HDMI 2 m (197 unités, CHF 2'935.30)
+  Produit au plus gros CA : Ordinateur portable 15" (CHF 16'770.00, 13 unités)
+
+PAR MOIS
+MOIS     VENTES  QUANTITÉ             CA     PART
+-------  ------  --------  -------------  -------
+2026-07     101       314  CHF 31'399.50   35.0 %
+2026-08     111       322  CHF 33'793.40   37.7 %
+2026-09     108       332  CHF 24'561.10   27.4 %
+
+PAR RÉGION
+RÉGION     VENTES  QUANTITÉ             CA     PART
+---------  ------  --------  -------------  -------
+Genève        110       358  CHF 30'433.30   33.9 %
+Vaud          108       292  CHF 23'715.00   26.4 %
+Neuchâtel      25        76  CHF 11'672.00   13.0 %
+Valais         32        83  CHF 10'366.90   11.6 %
+Fribourg       28       105   CHF 7'215.20    8.0 %
+Jura           17        54   CHF 6'351.60    7.1 %
+
+PAR CATÉGORIE
+CATÉGORIE     VENTES  QUANTITÉ             CA     PART
+------------  ------  --------  -------------  -------
+Accessoires      215       729  CHF 37'475.00   41.8 %
+Informatique      45        79  CHF 31'658.20   35.3 %
+Mobilier          60       160  CHF 20'620.80   23.0 %
+
+PAR PRODUIT (tri : chiffre d'affaires décroissant)
+PRODUIT                  VENTES  QUANTITÉ             CA     PART
+-----------------------  ------  --------  -------------  -------
+Ordinateur portable 15"       9        13  CHF 16'770.00   18.7 %
+Webcam HD                    34       144  CHF 11'376.00   12.7 %
+Clavier sans fil             44       158   CHF 9'464.20   10.5 %
+Chaise de bureau             22        36   CHF 8'964.00   10.0 %
+Souris ergonomique           43       189   CHF 8'410.50    9.4 %
+Bureau réglable               8        12   CHF 7'188.00    8.0 %
+Écran 27"                    10        18   CHF 7'002.00    7.8 %
+Dock USB-C                   19        38   CHF 5'696.20    6.3 %
+Casque audio                 22        41   CHF 5'289.00    5.9 %
+Lampe LED                    30       112   CHF 4'468.80    5.0 %
+Câble HDMI 2 m               72       197   CHF 2'935.30    3.3 %
+Imprimante laser              7        10   CHF 2'190.00    2.4 %

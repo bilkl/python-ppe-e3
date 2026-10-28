@@ -1,0 +1,321 @@
+date;id_vente;produit;categorie;region;quantite;prix_unitaire
+2026-07-01;V-0001;Webcam HD;Accessoires;Genève;1;79.00
+2026-07-01;V-0002;Lampe LED;Mobilier;Vaud;2;39.90
+2026-07-02;V-0003;"Écran 27""";Informatique;Genève;2;389.00
+2026-07-02;V-0004;Souris ergonomique;Accessoires;Vaud;3;44.50
+2026-07-02;V-0005;Lampe LED;Mobilier;Genève;10;39.90
+2026-07-02;V-0006;Souris ergonomique;Accessoires;Vaud;2;44.50
+2026-07-03;V-0007;Webcam HD;Accessoires;Genève;5;79.00
+2026-07-03;V-0008;Lampe LED;Mobilier;Valais;1;39.90
+2026-07-05;V-0009;Bureau réglable;Mobilier;Jura;2;599.00
+2026-07-05;V-0010;Chaise de bureau;Mobilier;Fribourg;1;249.00
+2026-07-06;V-0011;Câble HDMI 2 m;Accessoires;Neuchâtel;1;14.90
+2026-07-06;V-0012;Webcam HD;Accessoires;Fribourg;2;79.00
+2026-07-07;V-0013;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-07-07;V-0014;Câble HDMI 2 m;Accessoires;Neuchâtel;5;14.90
+2026-07-07;V-0015;Clavier sans fil;Accessoires;Genève;3;59.90
+2026-07-07;V-0016;Lampe LED;Mobilier;Genève;2;39.90
+2026-07-07;V-0017;Lampe LED;Mobilier;Genève;3;39.90
+2026-07-07;V-0018;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-07-08;V-0019;Câble HDMI 2 m;Accessoires;Genève;5;14.90
+2026-07-08;V-0020;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-07-08;V-0021;Webcam HD;Accessoires;Valais;5;79.00
+2026-07-09;V-0022;Casque audio;Accessoires;Vaud;1;129.00
+2026-07-09;V-0023;Souris ergonomique;Accessoires;Genève;3;44.50
+2026-07-10;V-0024;Bureau réglable;Mobilier;Valais;1;599.00
+2026-07-10;V-0025;Lampe LED;Mobilier;Fribourg;10;39.90
+2026-07-12;V-0026;"Écran 27""";Informatique;Genève;2;389.00
+2026-07-12;V-0027;"Écran 27""";Informatique;Valais;1;389.00
+2026-07-13;V-0028;Chaise de bureau;Mobilier;Genève;1;249.00
+2026-07-13;V-0029;Lampe LED;Mobilier;Genève;2;39.90
+2026-07-13;V-0030;Imprimante laser;Informatique;Jura;3;219.00
+2026-07-13;V-0031;Clavier sans fil;Accessoires;Genève;2;59.90
+2026-07-13;V-0032;Dock USB-C;Informatique;Vaud;3;149.90
+2026-07-13;V-0033;Souris ergonomique;Accessoires;Genève;1;44.50
+2026-07-13;V-0034;Bureau réglable;Mobilier;Valais;1;599.00
+2026-07-13;V-0035;Lampe LED;Mobilier;Vaud;3;39.90
+2026-07-13;V-0036;Clavier sans fil;Accessoires;Jura;3;59.90
+2026-07-14;V-0037;Bureau réglable;Mobilier;Neuchâtel;2;599.00
+2026-07-14;V-0038;"Ordinateur portable 15""";Informatique;Neuchâtel;1;1290.00
+2026-07-14;V-0039;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-07-14;V-0040;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-07-14;V-0041;Clavier sans fil;Accessoires;Genève;5;59.90
+2026-07-14;V-0042;Clavier sans fil;Accessoires;Genève;10;59.90
+2026-07-15;V-0043;Webcam HD;Accessoires;Vaud;3;79.00
+2026-07-15;V-0044;"Écran 27""";Informatique;Genève;2;389.00
+2026-07-15;V-0045;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-07-16;V-0046;Souris ergonomique;Accessoires;Neuchâtel;10;44.50
+2026-07-16;V-0047;Dock USB-C;Informatique;Vaud;2;149.90
+2026-07-16;V-0048;Câble HDMI 2 m;Accessoires;Fribourg;10;14.90
+2026-07-16;V-0049;Clavier sans fil;Accessoires;Vaud;5;59.90
+2026-07-16;V-0050;Dock USB-C;Informatique;Genève;2;149.90
+2026-07-16;V-0051;"Écran 27""";Informatique;Genève;3;389.00
+2026-07-16;V-0052;Câble HDMI 2 m;Accessoires;Vaud;3;14.90
+2026-07-16;V-0053;Clavier sans fil;Accessoires;Genève;2;59.90
+2026-07-17;V-0054;Câble HDMI 2 m;Accessoires;Jura;5;14.90
+2026-07-17;V-0055;Dock USB-C;Informatique;Genève;3;149.90
+2026-07-17;V-0056;Clavier sans fil;Accessoires;Genève;10;59.90
+2026-07-17;V-0057;Souris ergonomique;Accessoires;Vaud;3;44.50
+2026-07-17;V-0058;Casque audio;Accessoires;Genève;1;129.00
+2026-07-17;V-0059;Dock USB-C;Informatique;Valais;3;149.90
+2026-07-18;V-0060;Câble HDMI 2 m;Accessoires;Genève;3;14.90
+2026-07-18;V-0061;Souris ergonomique;Accessoires;Genève;2;44.50
+2026-07-18;V-0062;Clavier sans fil;Accessoires;Genève;1;59.90
+2026-07-19;V-0063;"Ordinateur portable 15""";Informatique;Vaud;2;1290.00
+2026-07-19;V-0064;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-07-20;V-0065;Webcam HD;Accessoires;Genève;5;79.00
+2026-07-20;V-0066;Webcam HD;Accessoires;Valais;2;79.00
+2026-07-20;V-0067;Câble HDMI 2 m;Accessoires;Genève;3;14.90
+2026-07-20;V-0068;Clavier sans fil;Accessoires;Neuchâtel;5;59.90
+2026-07-20;V-0069;Clavier sans fil;Accessoires;Vaud;10;59.90
+2026-07-21;V-0070;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-07-21;V-0071;Clavier sans fil;Accessoires;Genève;3;59.90
+2026-07-21;V-0072;Webcam HD;Accessoires;Fribourg;10;79.00
+2026-07-22;V-0073;Dock USB-C;Informatique;Genève;2;149.90
+2026-07-22;V-0074;Dock USB-C;Informatique;Vaud;1;149.90
+2026-07-22;V-0075;"Ordinateur portable 15""";Informatique;Genève;1;1290.00
+2026-07-22;V-0076;Webcam HD;Accessoires;Valais;1;79.00
+2026-07-23;V-0077;"Ordinateur portable 15""";Informatique;Vaud;1;1290.00
+2026-07-23;V-0078;Dock USB-C;Informatique;Jura;2;149.90
+2026-07-23;V-0079;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-07-24;V-0080;Lampe LED;Mobilier;Vaud;2;39.90
+2026-07-24;V-0081;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-07-24;V-0082;Webcam HD;Accessoires;Vaud;2;79.00
+2026-07-24;V-0083;Câble HDMI 2 m;Accessoires;Vaud;5;14.90
+2026-07-24;V-0084;Souris ergonomique;Accessoires;Genève;10;44.50
+2026-07-25;V-0085;Clavier sans fil;Accessoires;Vaud;1;59.90
+2026-07-26;V-0086;Câble HDMI 2 m;Accessoires;Valais;2;14.90
+2026-07-27;V-0087;Câble HDMI 2 m;Accessoires;Vaud;5;14.90
+2026-07-27;V-0088;Webcam HD;Accessoires;Genève;2;79.00
+2026-07-27;V-0089;Souris ergonomique;Accessoires;Fribourg;2;44.50
+2026-07-27;V-0090;Câble HDMI 2 m;Accessoires;Valais;5;14.90
+2026-07-27;V-0091;Souris ergonomique;Accessoires;Valais;10;44.50
+2026-07-28;V-0092;Dock USB-C;Informatique;Valais;1;149.90
+2026-07-28;V-0093;Câble HDMI 2 m;Accessoires;Genève;1;14.90
+2026-07-28;V-0094;Lampe LED;Mobilier;Genève;3;39.90
+2026-07-29;V-0095;Chaise de bureau;Mobilier;Neuchâtel;2;249.00
+2026-07-29;V-0096;Casque audio;Accessoires;Neuchâtel;1;129.00
+2026-07-29;V-0097;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-07-29;V-0098;Chaise de bureau;Mobilier;Vaud;1;249.00
+2026-07-29;V-0099;Lampe LED;Mobilier;Vaud;5;39.90
+2026-07-30;V-0100;Chaise de bureau;Mobilier;Genève;3;249.00
+2026-07-30;V-0101;Dock USB-C;Informatique;Jura;1;149.90
+2026-08-01;V-0102;Clavier sans fil;Accessoires;Fribourg;5;59.90
+2026-08-02;V-0103;Webcam HD;Accessoires;Neuchâtel;3;79.00
+2026-08-02;V-0104;Clavier sans fil;Accessoires;Genève;2;59.90
+2026-08-03;V-0105;Câble HDMI 2 m;Accessoires;Vaud;3;14.90
+2026-08-03;V-0106;Lampe LED;Mobilier;Genève;10;39.90
+2026-08-03;V-0107;Dock USB-C;Informatique;Vaud;1;149.90
+2026-08-03;V-0108;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-08-03;V-0109;Souris ergonomique;Accessoires;Fribourg;2;44.50
+2026-08-03;V-0110;Câble HDMI 2 m;Accessoires;Jura;2;14.90
+2026-08-04;V-0111;Clavier sans fil;Accessoires;Vaud;3;59.90
+2026-08-04;V-0112;Chaise de bureau;Mobilier;Vaud;1;249.00
+2026-08-04;V-0113;Lampe LED;Mobilier;Genève;2;39.90
+2026-08-05;V-0114;Webcam HD;Accessoires;Genève;2;79.00
+2026-08-05;V-0115;Clavier sans fil;Accessoires;Genève;1;59.90
+2026-08-05;V-0116;Lampe LED;Mobilier;Vaud;3;39.90
+2026-08-05;V-0117;Casque audio;Accessoires;Neuchâtel;2;129.00
+2026-08-06;V-0118;Casque audio;Accessoires;Genève;3;129.00
+2026-08-06;V-0119;Câble HDMI 2 m;Accessoires;Vaud;3;14.90
+2026-08-06;V-0120;Souris ergonomique;Accessoires;Vaud;10;44.50
+2026-08-06;V-0121;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-08-07;V-0122;Webcam HD;Accessoires;Vaud;3;79.00
+2026-08-07;V-0123;Souris ergonomique;Accessoires;Fribourg;2;44.50
+2026-08-07;V-0124;"Ordinateur portable 15""";Informatique;Genève;2;1290.00
+2026-08-08;V-0125;Câble HDMI 2 m;Accessoires;Genève;3;14.90
+2026-08-09;V-0126;Clavier sans fil;Accessoires;Vaud;3;59.90
+2026-08-10;V-0127;Casque audio;Accessoires;Fribourg;3;129.00
+2026-08-10;V-0128;Câble HDMI 2 m;Accessoires;Vaud;3;14.90
+2026-08-10;V-0129;Câble HDMI 2 m;Accessoires;Vaud;10;14.90
+2026-08-10;V-0130;Webcam HD;Accessoires;Genève;1;79.00
+2026-08-10;V-0131;Clavier sans fil;Accessoires;Vaud;2;59.90
+2026-08-11;V-0132;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-08-11;V-0133;Chaise de bureau;Mobilier;Genève;3;249.00
+2026-08-11;V-0134;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-08-12;V-0135;Webcam HD;Accessoires;Genève;10;79.00
+2026-08-12;V-0136;Câble HDMI 2 m;Accessoires;Genève;3;14.90
+2026-08-12;V-0137;Lampe LED;Mobilier;Vaud;1;39.90
+2026-08-12;V-0138;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-08-12;V-0139;Souris ergonomique;Accessoires;Vaud;10;44.50
+2026-08-12;V-0140;Webcam HD;Accessoires;Fribourg;10;79.00
+2026-08-13;V-0141;Casque audio;Accessoires;Genève;1;129.00
+2026-08-13;V-0142;Câble HDMI 2 m;Accessoires;Valais;2;14.90
+2026-08-13;V-0143;Dock USB-C;Informatique;Valais;3;149.90
+2026-08-13;V-0144;Souris ergonomique;Accessoires;Genève;3;44.50
+2026-08-14;V-0145;Casque audio;Accessoires;Vaud;1;129.00
+2026-08-14;V-0146;Câble HDMI 2 m;Accessoires;Jura;3;14.90
+2026-08-14;V-0147;Câble HDMI 2 m;Accessoires;Valais;1;14.90
+2026-08-14;V-0148;Imprimante laser;Informatique;Neuchâtel;1;219.00
+2026-08-15;V-0149;Câble HDMI 2 m;Accessoires;Fribourg;2;14.90
+2026-08-16;V-0150;Lampe LED;Mobilier;Fribourg;2;39.90
+2026-08-17;V-0151;Souris ergonomique;Accessoires;Vaud;5;44.50
+2026-08-17;V-0152;"Écran 27""";Informatique;Genève;1;389.00
+2026-08-17;V-0153;Chaise de bureau;Mobilier;Jura;3;249.00
+2026-08-17;V-0154;Chaise de bureau;Mobilier;Vaud;3;249.00
+2026-08-18;V-0155;"Ordinateur portable 15""";Informatique;Genève;1;1290.00
+2026-08-18;V-0156;Clavier sans fil;Accessoires;Vaud;2;59.90
+2026-08-18;V-0157;Webcam HD;Accessoires;Jura;10;79.00
+2026-08-18;V-0158;Clavier sans fil;Accessoires;Genève;1;59.90
+2026-08-18;V-0159;Chaise de bureau;Mobilier;Neuchâtel;1;249.00
+2026-08-18;V-0160;Souris ergonomique;Accessoires;Valais;1;44.50
+2026-08-18;V-0161;Souris ergonomique;Accessoires;Valais;3;44.50
+2026-08-19;V-0162;Câble HDMI 2 m;Accessoires;Neuchâtel;2;14.90
+2026-08-19;V-0163;Câble HDMI 2 m;Accessoires;Fribourg;3;14.90
+2026-08-19;V-0164;"Écran 27""";Informatique;Vaud;1;389.00
+2026-08-19;V-0165;"Écran 27""";Informatique;Vaud;1;389.00
+2026-08-19;V-0166;Clavier sans fil;Accessoires;Vaud;2;59.90
+2026-08-20;V-0167;Lampe LED;Mobilier;Genève;3;39.90
+2026-08-20;V-0168;Webcam HD;Accessoires;Valais;2;79.00
+2026-08-20;V-0169;Casque audio;Accessoires;Fribourg;3;129.00
+2026-08-21;V-0170;Bureau réglable;Mobilier;Vaud;1;599.00
+2026-08-21;V-0171;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-08-21;V-0172;"Ordinateur portable 15""";Informatique;Valais;2;1290.00
+2026-08-21;V-0173;Clavier sans fil;Accessoires;Fribourg;2;59.90
+2026-08-21;V-0174;Webcam HD;Accessoires;Valais;10;79.00
+2026-08-22;V-0175;Lampe LED;Mobilier;Genève;3;39.90
+2026-08-22;V-0176;Bureau réglable;Mobilier;Neuchâtel;2;599.00
+2026-08-22;V-0177;Souris ergonomique;Accessoires;Valais;1;44.50
+2026-08-23;V-0178;Clavier sans fil;Accessoires;Genève;2;59.90
+2026-08-23;V-0179;Souris ergonomique;Accessoires;Genève;10;44.50
+2026-08-24;V-0180;Casque audio;Accessoires;Valais;3;129.00
+2026-08-24;V-0181;Chaise de bureau;Mobilier;Vaud;1;249.00
+2026-08-24;V-0182;Webcam HD;Accessoires;Fribourg;3;79.00
+2026-08-24;V-0183;Webcam HD;Accessoires;Vaud;3;79.00
+2026-08-24;V-0184;Souris ergonomique;Accessoires;Genève;3;44.50
+2026-08-24;V-0185;Casque audio;Accessoires;Vaud;1;129.00
+2026-08-24;V-0186;"Écran 27""";Informatique;Vaud;2;389.00
+2026-08-25;V-0187;Clavier sans fil;Accessoires;Fribourg;1;59.90
+2026-08-25;V-0188;Webcam HD;Accessoires;Neuchâtel;2;79.00
+2026-08-25;V-0189;Clavier sans fil;Accessoires;Fribourg;2;59.90
+2026-08-25;V-0190;Chaise de bureau;Mobilier;Vaud;2;249.00
+2026-08-25;V-0191;Clavier sans fil;Accessoires;Jura;3;59.90
+2026-08-26;V-0192;Dock USB-C;Informatique;Fribourg;2;149.90
+2026-08-26;V-0193;Lampe LED;Mobilier;Vaud;3;39.90
+2026-08-26;V-0194;Webcam HD;Accessoires;Genève;2;79.00
+2026-08-26;V-0195;Câble HDMI 2 m;Accessoires;Fribourg;2;14.90
+2026-08-26;V-0196;Câble HDMI 2 m;Accessoires;Valais;2;14.90
+2026-08-26;V-0197;Imprimante laser;Informatique;Fribourg;2;219.00
+2026-08-26;V-0198;Clavier sans fil;Accessoires;Genève;2;59.90
+2026-08-26;V-0199;Câble HDMI 2 m;Accessoires;Genève;1;14.90
+2026-08-27;V-0200;"Ordinateur portable 15""";Informatique;Neuchâtel;2;1290.00
+2026-08-27;V-0201;Chaise de bureau;Mobilier;Vaud;3;249.00
+2026-08-27;V-0202;Webcam HD;Accessoires;Genève;10;79.00
+2026-08-27;V-0203;Clavier sans fil;Accessoires;Vaud;1;59.90
+2026-08-28;V-0204;Câble HDMI 2 m;Accessoires;Vaud;10;14.90
+2026-08-28;V-0205;Lampe LED;Mobilier;Genève;1;39.90
+2026-08-28;V-0206;Souris ergonomique;Accessoires;Vaud;1;44.50
+2026-08-28;V-0207;Câble HDMI 2 m;Accessoires;Genève;1;14.90
+2026-08-28;V-0208;Lampe LED;Mobilier;Vaud;3;39.90
+2026-08-30;V-0209;Clavier sans fil;Accessoires;Vaud;2;59.90
+2026-08-30;V-0210;Dock USB-C;Informatique;Vaud;2;149.90
+2026-08-31;V-0211;Souris ergonomique;Accessoires;Genève;2;44.50
+2026-08-31;V-0212;Webcam HD;Accessoires;Fribourg;5;79.00
+2026-09-01;V-0213;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-09-01;V-0214;Dock USB-C;Informatique;Fribourg;1;149.90
+2026-09-01;V-0215;Dock USB-C;Informatique;Valais;2;149.90
+2026-09-01;V-0216;Lampe LED;Mobilier;Jura;2;39.90
+2026-09-02;V-0217;Lampe LED;Mobilier;Vaud;2;39.90
+2026-09-02;V-0218;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-09-02;V-0219;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-09-03;V-0220;Souris ergonomique;Accessoires;Jura;3;44.50
+2026-09-04;V-0221;Câble HDMI 2 m;Accessoires;Valais;1;14.90
+2026-09-04;V-0222;Clavier sans fil;Accessoires;Neuchâtel;2;59.90
+2026-09-04;V-0223;Câble HDMI 2 m;Accessoires;Valais;1;14.90
+2026-09-04;V-0224;Chaise de bureau;Mobilier;Vaud;1;249.00
+2026-09-04;V-0225;Clavier sans fil;Accessoires;Fribourg;10;59.90
+2026-09-04;V-0226;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-09-04;V-0227;Lampe LED;Mobilier;Genève;10;39.90
+2026-09-04;V-0228;Souris ergonomique;Accessoires;Genève;3;44.50
+2026-09-04;V-0229;Clavier sans fil;Accessoires;Vaud;5;59.90
+2026-09-04;V-0230;Clavier sans fil;Accessoires;Genève;1;59.90
+2026-09-06;V-0231;Bureau réglable;Mobilier;Neuchâtel;1;599.00
+2026-09-06;V-0232;Lampe LED;Mobilier;Vaud;1;39.90
+2026-09-06;V-0233;Souris ergonomique;Accessoires;Vaud;5;44.50
+2026-09-07;V-0234;Imprimante laser;Informatique;Vaud;1;219.00
+2026-09-07;V-0235;Souris ergonomique;Accessoires;Genève;1;44.50
+2026-09-07;V-0236;Lampe LED;Mobilier;Valais;2;39.90
+2026-09-08;V-0237;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-09-08;V-0238;Câble HDMI 2 m;Accessoires;Genève;10;14.90
+2026-09-08;V-0239;Casque audio;Accessoires;Vaud;2;129.00
+2026-09-08;V-0240;Lampe LED;Mobilier;Fribourg;1;39.90
+2026-09-08;V-0241;Souris ergonomique;Accessoires;Valais;5;44.50
+2026-09-09;V-0242;Souris ergonomique;Accessoires;Genève;2;44.50
+2026-09-09;V-0243;Imprimante laser;Informatique;Vaud;1;219.00
+2026-09-09;V-0244;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-09-09;V-0245;Dock USB-C;Informatique;Genève;3;149.90
+2026-09-09;V-0246;Chaise de bureau;Mobilier;Genève;1;249.00
+2026-09-09;V-0247;Clavier sans fil;Accessoires;Genève;1;59.90
+2026-09-10;V-0248;Webcam HD;Accessoires;Genève;2;79.00
+2026-09-10;V-0249;Souris ergonomique;Accessoires;Jura;5;44.50
+2026-09-10;V-0250;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-09-10;V-0251;Souris ergonomique;Accessoires;Neuchâtel;10;44.50
+2026-09-10;V-0252;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-09-10;V-0253;Clavier sans fil;Accessoires;Valais;3;59.90
+2026-09-10;V-0254;Souris ergonomique;Accessoires;Genève;3;44.50
+2026-09-11;V-0255;Lampe LED;Mobilier;Vaud;5;39.90
+2026-09-11;V-0256;Clavier sans fil;Accessoires;Genève;5;59.90
+2026-09-11;V-0257;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-09-11;V-0258;Souris ergonomique;Accessoires;Genève;1;44.50
+2026-09-13;V-0259;Souris ergonomique;Accessoires;Genève;10;44.50
+2026-09-14;V-0260;Souris ergonomique;Accessoires;Vaud;2;44.50
+2026-09-14;V-0261;Dock USB-C;Informatique;Genève;1;149.90
+2026-09-14;V-0262;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-09-14;V-0263;Souris ergonomique;Accessoires;Genève;10;44.50
+2026-09-14;V-0264;"Ordinateur portable 15""";Informatique;Genève;1;1290.00
+2026-09-15;V-0265;Chaise de bureau;Mobilier;Vaud;1;249.00
+2026-09-15;V-0266;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-09-15;V-0267;Webcam HD;Accessoires;Genève;2;79.00
+2026-09-15;V-0268;Souris ergonomique;Accessoires;Genève;2;44.50
+2026-09-15;V-0269;Souris ergonomique;Accessoires;Vaud;10;44.50
+2026-09-16;V-0270;Clavier sans fil;Accessoires;Vaud;10;59.90
+2026-09-16;V-0271;Casque audio;Accessoires;Valais;2;129.00
+2026-09-16;V-0272;Chaise de bureau;Mobilier;Genève;1;249.00
+2026-09-16;V-0273;Casque audio;Accessoires;Vaud;2;129.00
+2026-09-17;V-0274;Casque audio;Accessoires;Genève;2;129.00
+2026-09-17;V-0275;Casque audio;Accessoires;Vaud;1;129.00
+2026-09-17;V-0276;Clavier sans fil;Accessoires;Vaud;10;59.90
+2026-09-18;V-0277;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-09-18;V-0278;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-09-18;V-0279;Souris ergonomique;Accessoires;Genève;2;44.50
+2026-09-18;V-0280;Câble HDMI 2 m;Accessoires;Genève;3;14.90
+2026-09-18;V-0281;Clavier sans fil;Accessoires;Vaud;5;59.90
+2026-09-18;V-0282;Lampe LED;Mobilier;Fribourg;5;39.90
+2026-09-19;V-0283;Webcam HD;Accessoires;Vaud;3;79.00
+2026-09-20;V-0284;Chaise de bureau;Mobilier;Genève;1;249.00
+2026-09-21;V-0285;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-09-21;V-0286;Casque audio;Accessoires;Vaud;3;129.00
+2026-09-21;V-0287;Câble HDMI 2 m;Accessoires;Valais;2;14.90
+2026-09-21;V-0288;Souris ergonomique;Accessoires;Neuchâtel;3;44.50
+2026-09-21;V-0289;Webcam HD;Accessoires;Genève;5;79.00
+2026-09-21;V-0290;Bureau réglable;Mobilier;Valais;2;599.00
+2026-09-21;V-0291;Clavier sans fil;Accessoires;Jura;3;59.90
+2026-09-22;V-0292;Clavier sans fil;Accessoires;Vaud;1;59.90
+2026-09-22;V-0293;Chaise de bureau;Mobilier;Fribourg;2;249.00
+2026-09-22;V-0294;Câble HDMI 2 m;Accessoires;Vaud;2;14.90
+2026-09-22;V-0295;Clavier sans fil;Accessoires;Vaud;1;59.90
+2026-09-23;V-0296;Imprimante laser;Informatique;Vaud;1;219.00
+2026-09-23;V-0297;Clavier sans fil;Accessoires;Genève;5;59.90
+2026-09-23;V-0298;Chaise de bureau;Mobilier;Vaud;1;249.00
+2026-09-23;V-0299;Casque audio;Accessoires;Genève;2;129.00
+2026-09-24;V-0300;Dock USB-C;Informatique;Vaud;3;149.90
+2026-09-24;V-0301;Câble HDMI 2 m;Accessoires;Vaud;1;14.90
+2026-09-24;V-0302;Chaise de bureau;Mobilier;Genève;2;249.00
+2026-09-24;V-0303;Casque audio;Accessoires;Neuchâtel;3;129.00
+2026-09-24;V-0304;Webcam HD;Accessoires;Vaud;3;79.00
+2026-09-25;V-0305;Souris ergonomique;Accessoires;Vaud;2;44.50
+2026-09-25;V-0306;Casque audio;Accessoires;Neuchâtel;2;129.00
+2026-09-25;V-0307;Webcam HD;Accessoires;Genève;10;79.00
+2026-09-25;V-0308;Chaise de bureau;Mobilier;Neuchâtel;1;249.00
+2026-09-25;V-0309;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-09-26;V-0310;Casque audio;Accessoires;Vaud;1;129.00
+2026-09-26;V-0311;"Écran 27""";Informatique;Jura;3;389.00
+2026-09-27;V-0312;Lampe LED;Mobilier;Genève;10;39.90
+2026-09-28;V-0313;Webcam HD;Accessoires;Vaud;3;79.00
+2026-09-28;V-0314;Câble HDMI 2 m;Accessoires;Genève;2;14.90
+2026-09-28;V-0315;Souris ergonomique;Accessoires;Neuchâtel;10;44.50
+2026-09-29;V-0316;Souris ergonomique;Accessoires;Vaud;1;44.50
+2026-09-30;V-0317;Câble HDMI 2 m;Accessoires;Genève;10;14.90
+2026-09-30;V-0318;Webcam HD;Accessoires;Neuchâtel;2;79.00
+2026-09-30;V-0319;Casque audio;Accessoires;Vaud;1;129.00
+2026-09-30;V-0320;Imprimante laser;Informatique;Jura;1;219.00
