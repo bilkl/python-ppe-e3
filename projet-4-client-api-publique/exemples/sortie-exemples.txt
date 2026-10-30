@@ -1,0 +1,38 @@
+Sorties réelles de l'API Frankfurter, enregistrées le 2026-10-30 à 09:08.
+
+$ python3 -m client_taux convertir 250 CHF EUR
+250.00 CHF = 271.09 EUR
+  taux : 1 CHF = 1.0844 EUR   (cours du 2026-10-29)
+
+$ python3 -m client_taux taux CHF EUR USD GBP JPY
+Taux de change depuis 1 CHF (cours du 2026-10-29)
+DEVISE  POUR 1 CHF
+------  ----------
+EUR         1.0844
+GBP         0.9063
+JPY       190.7600
+USD         1.2069
+
+$ python3 -m client_taux historique CHF EUR --du 2026-10-01 --au 2026-10-28
+Évolution de 1 CHF en EUR, 2026-10-01 au 2026-10-28 (20 cours)
+DATE        1 CHF EN EUR
+----------  ------------
+2026-10-01        1.0597
+2026-10-02        1.0777
+2026-10-05        1.0740
+2026-10-06        1.0685
+2026-10-07        1.0742
+...                  ...
+2026-10-22        1.0857
+2026-10-23        1.0838
+2026-10-26        1.0819
+2026-10-27        1.0824
+2026-10-28        1.0814
+  minimum  : 1.0597   maximum : 1.0857   moyenne : 1.0766
+  variation : +2.05 % (1.0597 -> 1.0814)
+
+$ python3 -m client_taux devises --filtre franc
+CODE  NOM
+----  -----------
+CHF   Swiss Franc
+-- 1 devise(s)

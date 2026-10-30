@@ -1,0 +1,25 @@
+ 1. DÉTECTÉ   compte.py   retrait : limite exclusive au lieu d'inclusive
+ 2. DÉTECTÉ   compte.py   virement : limite exclusive au lieu d'inclusive
+ 3. DÉTECTÉ   compte.py   le découvert n'est plus compté dans le disponible
+ 4. DÉTECTÉ   compte.py   un dépôt retire de l'argent
+ 5. DÉTECTÉ   compte.py   un retrait ajoute de l'argent
+ 6. DÉTECTÉ   compte.py   clôture autorisée avec un solde positif
+ 7. DÉTECTÉ   compte.py   un compte clôturé accepte des opérations
+ 8. DÉTECTÉ   compte.py   titulaire : limite de longueur décalée
+ 9. DÉTECTÉ   compte.py   intérêts arrondis vers le bas
+10. DÉTECTÉ   compte.py   intérêts calculés sur 10 mois au lieu de 12
+11. DÉTECTÉ   compte.py   une opération d'intérêts à zéro est créée
+12. DÉTECTÉ   compte.py   taux maximum exclu
+13. DÉTECTÉ   compte.py   l'historique peut être modifié de l'extérieur
+14. DÉTECTÉ   montants.py les flottants sont acceptés
+15. DÉTECTÉ   montants.py les booléens sont acceptés (True = 1 centime)
+16. DÉTECTÉ   montants.py montant maximum exclu
+17. DÉTECTÉ   montants.py plus de 2 décimales acceptées
+18. DÉTECTÉ   montants.py règle du zéro inversée
+19. DÉTECTÉ   montants.py NaN et infini acceptés
+20. DÉTECTÉ   banque.py   virement d'un compte vers lui-même autorisé
+21. DÉTECTÉ   banque.py   virement vers/depuis un compte clôturé non contrôlé
+22. DÉTECTÉ   banque.py   numéros de compte en double
+23. DÉTECTÉ   releve.py   virement émis affiché comme un gain
+
+23/23 bugs introduits ont été détectés par les tests.
